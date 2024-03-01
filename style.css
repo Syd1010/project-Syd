@@ -11,7 +11,7 @@
   --fundo-color: rgba(255, 255, 255, 0.05);
   --fundo-color-hover: rgba(0, 0, 0, 0.02);
   --social-color: rgba(255, 255, 255, 0.2);
-  --switch: url(./fotos/sun.svg);
+  --switch: url(./fotos/mon-stars.svg);
 }
 
 .light {
